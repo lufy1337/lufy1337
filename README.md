@@ -1,7 +1,7 @@
 # lufy1337
 
-15 y/o who codes for fun.
-Mostly working with **C++**, **Python**, and **TypeScript**.
+15 y/o who codes for fun.  
+Mainly focused on **C++ backend development**, **custom UI framework design**, and **web frontend design**.
 
 ---
 
@@ -12,9 +12,9 @@ Customized Dear ImGui menu built with DX11 + FreeType — animated UI, watermark
 
 ---
 
-## languages
+## focus
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Backend](https://img.shields.io/badge/Backend-1f2937?style=flat-square)
+![UI%20Frameworks](https://img.shields.io/badge/UI_Frameworks-7c3aed?style=flat-square)
+![Frontend%20Design](https://img.shields.io/badge/Frontend_Design-0ea5e9?style=flat-square)
