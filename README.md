@@ -1,6 +1,6 @@
 # lufy1337
 
-15 y/o who codes for fun.  
+15 y/o
 Mainly focused on **C++ backend development**, **custom UI framework design**, and **web frontend design**.
 
 ---
